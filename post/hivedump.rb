@@ -12,7 +12,7 @@ class MetasploitModule < Msf::Post
 		This module downloads the Hive Files using the exploit HiveNightmare
         },
         'License'       => MSF_LICENSE,
-        'Author'        => [ 'ritaban' ],
+        'Author'        => [ 'dosxuz' ],
         'Platform'      => [ 'win' ],
         'SessionTypes'  => [ 'meterpreter' ]
       ))
